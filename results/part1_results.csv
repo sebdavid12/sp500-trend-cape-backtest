@@ -1,0 +1,5 @@
+,,CAGR,Volatility,Sharpe,Max drawdown,Worst month,Time in stocks,Trades per year
+1881-1949 (in-sample),Buy & hold,0.0682,0.1627,0.2758,-0.8176,-0.2619,,
+1881-1949 (in-sample),Trend (6-mo),0.1014,0.1007,0.6714,-0.2552,-0.1387,0.5430,2.0509
+1950-2023 (out-of-sample),Buy & hold,0.1130,0.1207,0.4988,-0.4904,-0.2019,,
+1950-2023 (out-of-sample),Trend (6-mo),0.1192,0.0885,0.7036,-0.1895,-0.1892,0.6916,2.0952
